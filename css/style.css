@@ -213,7 +213,8 @@ background: #282531;
 .footer-section li{
 	list-style: none;
 }
-.footer-section a{
+.footer-section .footer-inner a{
+
 	list-style: none;
 	color: #fff !important;
 	font-size: 17px;
